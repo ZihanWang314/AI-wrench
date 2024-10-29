@@ -5,16 +5,16 @@
 
 ## 📦 Tools Included
 
-### 🔹 dump-to-GPT
+### 🔹 [dump-to-GPT](http://www.github.com/zihanwang314/dump-to-GPT)
 
-Easily share your codebase with GPT models using `dump-to-GPT`. It organizes your code and generates a structured report in one step.
+Easily share your codebase with GPT models using [`dump-to-GPT`](http://www.github.com/zihanwang314/dump-to-GPT). It organizes your code and generates a structured report in one step.
 
 - **Quick Command**: `python dump_gpt.py --dir [YOUR_CODEBASE_DIR]`
 - **Organized Output**: Full code summaries, ready to paste into GPT.
 
 ### 🔹 More Tools Coming Soon
 
-Stay tuned for tools focused on model testing, debugging, and project management.
+Stay tuned for tools focused on model testing, debugging, and project management. We plan to release a lot of lightweight, and even **single line-of-code** tools including data visualization / exploration / annoataion, and much more. 
 
 ## 🚀 Quick Start
 
@@ -36,6 +36,6 @@ For AI engineers and researchers who:
 
 ## 📢 Stay Updated
 
-We’re committed to making **AI-wrench** the best it can be! I will actively respond to those interested in adding features or enhancing existing ones. Follow **AI-wrench** on GitHub for updates, new tools, and feature discussions.
+We’re committed to making **AI-wrench** the best it can be! I will actively respond to those interested in adding features or enhancing existing ones. Follow [AI-wrench on GitHub](http://www.github.com/zihanwang314/AI-wrench) for updates, new tools, and feature discussions. You can create a github issue or contact [Zihan Wang](zihanwang314.github.io) if you need help on running code or have any suggestions.
 
 Happy coding! 🚀
