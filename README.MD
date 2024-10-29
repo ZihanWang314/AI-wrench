@@ -36,6 +36,6 @@ For AI engineers and researchers who:
 
 ## 📢 Stay Updated
 
-We’re committed to making **AI-wrench** the best it can be! I will actively respond to those interested in adding features or enhancing existing ones. Follow [AI-wrench on GitHub](http://www.github.com/zihanwang314/AI-wrench) for updates, new tools, and feature discussions. You can create a github issue or contact [Zihan Wang](zihanwang314.github.io) if you need help on running code or have any suggestions.
+We’re committed to making **AI-wrench** the best it can be! I will actively respond to those interested in adding features or enhancing existing ones. Follow [AI-wrench on GitHub](http://www.github.com/zihanwang314/AI-wrench) for updates, new tools, and feature discussions. You can create a github issue or contact [Zihan Wang](http://zihanwang314.github.io) if you need help on running code or have any suggestions.
 
 Happy coding! 🚀
